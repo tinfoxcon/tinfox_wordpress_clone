@@ -1,0 +1,245 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap');
+#wordclever-templates {
+    width: 90%;
+    margin: 0 auto;
+}
+#wordclever-templates .wordclever-templates-tabs-box {
+    box-shadow: 0px 0px 10px 0px #00000047;
+    background: #ffffff;
+    padding: 10px 0px;
+    border-radius: 5px;
+    width: 100%;
+    margin: auto;
+    margin-top: 20px;
+}
+#wordclever-templates .wordclever-templates-collections-search .search-box input {
+    border: none;
+    width: 100%;
+    position: relative;
+    box-shadow: 0px 0px 10px 0px #00000047;
+    background: #ffffff;
+    padding: 6px 10px;
+    border-radius: 5px;
+}
+#wordclever-templates .dashicons.dashicons-search {
+    align-self: center;
+    position: absolute;
+    top: 0;
+    right: 20px;
+    bottom: 0;
+}
+#wordclever-templates .dashicons-search:before {
+    color: #6D51FB;
+    font-size: 24px;
+}
+#wordclever-templates .wordclever-filter-categories-wrapper{
+    height: 435px;
+    overflow-y: scroll;
+    overflow-x: hidden;
+}
+#wordclever-templates .wordclever-templates-grid-outer-box{
+    height: 740px;
+    overflow-y: scroll;
+    overflow-x: hidden;
+}
+
+#wordclever-templates .wordclever-templates-grid-outer-box::-webkit-scrollbar,#wordclever-templates .wordclever-filter-categories-wrapper::-webkit-scrollbar {
+    display: none;
+}
+#wordclever-templates .wordclever-filter-categories-wrapper,
+#wordclever-templates .wordclever-template-banner-image {
+    background-color: #6D51FB;
+    border-radius: 5px;
+    padding: 20px;
+}
+#wordclever-templates .wordclever-bundle-buy-now {
+    background-image: linear-gradient(90deg, #EF7315, #FEA664);
+    color: #ffffff;
+    text-decoration: none;
+    padding: 10px 30px;
+    border-radius: 4px;
+    box-shadow: 0px 3px 6px 0px #00000029;
+    width: fit-content;
+    margin: auto;
+}
+#wordclever-templates .wordclever-template-banner-para {
+    font: normal normal normal 14px / 20px poppins;
+    letter-spacing: 0px;
+    color: #F3F3F3;
+    margin: 0;
+    width: 90%;
+    margin: auto;
+}
+#wordclever-templates .wordclever-templates-collections-group {
+    padding-left: 1rem;
+}
+#wordclever-templates .wordclever-template-banner-content-box {
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+    text-align: center;
+    padding-top: 35%;
+}
+#wordclever-templates .wordclever-filter-category-select-content,
+#wordclever-templates .wordclever-template-banner-heading {
+    font: normal normal bold 26px / 30px poppins;
+    letter-spacing: 0px;
+    color: #FFFFFF;
+}
+#wordclever-templates .wordclever-collection-name {
+    display: flex;
+    justify-content: space-between;
+    font: normal normal 600 18px / 25px poppins;
+    letter-spacing: 0px;
+    color: #FFFFFF;
+    cursor: pointer;
+    margin: 0;
+}
+#wordclever-templates .wordclever-collection-count {
+    font: normal normal 600 14px / 44px poppins;
+    letter-spacing: 0px;
+    color: #6D51FB;
+    background: #ffffff;
+    width: 30px;
+    height: 30px;
+    border-radius: 4px;
+    line-height: 30px;
+    text-align: center;
+}
+#wordclever-templates .wordclever-collection-name:hover, #wordclever-templates .wordclever-collection-name.active {
+    color: #FCA05C;
+    padding-left: 10px;
+}
+#wordclever-templates .wordclever-collection-name:hover .wordclever-collection-count, #wordclever-templates .wordclever-collection-name.active .wordclever-collection-count {
+    background-image: linear-gradient(90deg, #EF7315, #FEA664);
+    color: #ffffff;
+}
+#wordclever-templates .wordclever-template-banner-image img {
+    position: absolute;
+    top: -50px;
+    left: 0;
+    right: 0;
+    margin: auto;
+    width: 80%;
+}
+#wordclever-templates .wordclever-templates-grid.wordclever-main-grid {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: start;
+    gap: 20px 0px;
+    margin-top: 20px;
+}
+#wordclever-templates .wordclever-templates-grid.wordclever-main-grid .wordclever-grid-item {
+    width: 262px;
+    margin-left: 15px;
+}
+#wordclever-templates .wordclever-grid-item:hover .wordclever-image-box img {
+    margin-top: -30px;
+}
+#wordclever-templates .wordclever-image-box {
+    width: 100%;
+    height: 300px;
+}
+#wordclever-templates .wordclever-image-wrap {
+    background: #fff;
+    box-shadow: 0px 0px 6px 0px #00000047;
+    padding: 15px;
+    border-radius: 5px;
+}
+#wordclever-templates .wordclever-image-wrap img {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    object-position: top;
+    box-shadow: 0px 0px 6px 0px #00000029;
+    border-radius: 5px;
+    transition: all .4s linear;
+}
+#wordclever-templates .wordclever-templates-grid.wordclever-main-grid .wordclever-demo-url.wordclever-btn {
+    background-image: linear-gradient(90deg, #EF7315, #FEA664);
+    color: #ffffff;
+    text-decoration: none;
+    padding: 10px 15px;
+    border-radius: 4px;
+    box-shadow: 0px 3px 6px 0px #00000029;
+    position: relative;
+    top: -15px;
+}
+#wordclever-templates .wordclever-image-overlay {
+    text-align: center;
+}
+#wordclever-templates .wordclever-grid-item h3 {
+    font: normal normal 600 18px / 25px poppins, Outfit;
+    color: #707070;
+    padding: 0px 24px;
+    height: 50px;
+}
+#wordclever-templates .wordclever-buy-now.wordclever-btn {
+    background: #6D51FB;
+    color: #fff;
+    padding: 8px 20px;
+    text-decoration: none;
+    border: 1px solid #E4E4E4;
+    border-radius: 5px;
+    font: normal normal 600 14px / 19px poppins, Outfit;
+}
+#wordclever-templates .wordclever-price-box {
+    font: normal normal normal 13px / 17px poppins;
+    color: #707070;
+    text-align: start;
+}
+#wordclever-templates .wordclever-price {
+    font: normal normal bold 16px / 21px poppins;
+    letter-spacing: 0px;
+    color: #707070;
+}
+#wordclever-templates .wordclever-load-more {
+    background: #6D51FB;
+    color: #fff;
+    padding: 8px 20px;
+    text-decoration: none;
+    border: 1px solid #E4E4E4;
+    border-radius: 5px;
+    font: normal normal 600 14px / 19px poppins, Outfit;
+}
+@media screen and (max-width: 1250px) and (min-width: 1200px) {
+    #wordclever-templates .wordclever-templates-grid.wordclever-main-grid .wordclever-grid-item {
+        width: 220px;
+    }
+    #wordclever-templates .wordclever-grid-item h3 {
+        padding: 0px;
+    }
+    #wordclever-templates .wordclever-filter-category-select-content,
+    #wordclever-templates .wordclever-template-banner-heading {
+        font: normal normal bold 21px / 26px poppins;
+    }
+    #wordclever-templates .wordclever-bundle-buy-now {
+        padding: 10px 22px;
+    }
+    #wordclever-templates .wordclever-collection-name {
+        font: normal normal 600 16px / 20px poppins;
+    }
+    #wordclever-templates .wordclever-templates-collections-group,
+    #wordclever-templates .wordclever-collection-name:hover {
+        padding-left: 0rem;
+    }
+}
+@media screen and (max-width: 1199px) and (min-width: 1024px) {
+    #wordclever-templates .wordclever-templates-grid.wordclever-main-grid .wordclever-grid-item {
+        width: 245px;
+    }
+    #wordclever-templates .wordclever-bundle-buy-now {
+        padding: 10px 25px;
+    }
+    #wordclever-templates .wordclever-filter-category-select-content,
+    #wordclever-templates .wordclever-template-banner-heading {
+        font: normal normal bold 20px / 24px poppins;
+    }
+    #wordclever-templates .wordclever-collection-name {
+        font: normal normal 600 16px / 20px poppins;
+    }
+    #wordclever-templates .wordclever-templates-collections-group,
+    #wordclever-templates .wordclever-collection-name:hover {
+        padding-left: 0rem;
+    }
+}

@@ -1,0 +1,795 @@
+# Copyright (C) 2025 WP Radiant
+# This file is distributed under the GNU General Public License v3 or later.
+msgid ""
+msgstr ""
+"Project-Id-Version: App Development Company 1.1.9\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/theme/app-development-company\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"POT-Creation-Date: 2025-02-12T11:19:09+05:30\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"X-Generator: WP-CLI 2.10.0\n"
+"X-Domain: app-development-company\n"
+
+#. Theme Name of the theme
+#: style.css
+msgid "App Development Company"
+msgstr ""
+
+#. Theme URI of the theme
+#: style.css
+msgid "https://www.wpradiant.net/products/free-development-company-wordpress-theme"
+msgstr ""
+
+#. Description of the theme
+#: style.css
+msgid "App Development Company is a user-friendly and visually appealing website template designed for companies that create mobile applications. It serves as a virtual storefront, allowing these companies to showcase their expertise, portfolio, and services in a professional and engaging manner. This theme is tailored for simplicity, ensuring that even those without advanced technical skills can easily use it to create a compelling online presence. Whether you’re a startup or an established app development firm, this theme provides a straightforward way to showcase your work and attract potential clients. One of the key benefits of this theme is its clean and modern design, which is essential for creating a positive first impression. The theme can be used by App Development, Software Solutions, Tech Startup, Mobile Apps, IT Services, Digital Agency, Web Development, Technology Firm, SaaS Solutions, Tech Company, Innovation Hub, Software Agency, Tech Products, App Services, Development Agency. It features a layout that is easy to navigate, ensuring visitors can quickly find information about the company, its services, and the apps it has developed. As a WordPress theme, it comes with the advantage of being easily customizable, allowing companies to personalize their websites to align with their brand identity. The responsive design ensures that the website looks great and functions well on various devices, from desktop computers to smartphones. The App Development Company WordPress theme also includes sections for showcasing app portfolios, client testimonials, and team members. It simplifies the process of providing essential information, such as contact details and service offerings, making it convenient for potential clients to get in touch. Demo: https://preview.wpradiant.net/app-development-company/"
+msgstr ""
+
+#. Author of the theme
+#: style.css
+#: patterns/footer-default.php:97
+msgid "WP Radiant"
+msgstr ""
+
+#. Author URI of the theme
+#: style.css
+msgid "https://www.wpradiant.net/"
+msgstr ""
+
+#: get-started/getstart.php:8
+msgid "https://wordpress.org/support/theme/app-development-company/"
+msgstr ""
+
+#: get-started/getstart.php:9
+msgid "https://wordpress.org/support/theme/app-development-company/reviews/#new-post"
+msgstr ""
+
+#: get-started/getstart.php:10
+#: get-started/notice.php:3
+msgid "https://www.wpradiant.net/products/app-development-wordpress-theme"
+msgstr ""
+
+#: get-started/getstart.php:11
+msgid "https://preview.wpradiant.net/tutorial/app-development-company/"
+msgstr ""
+
+#: get-started/getstart.php:12
+msgid "https://preview.wpradiant.net/app-development-company/"
+msgstr ""
+
+#: get-started/getstart.php:13
+msgid "https://preview.wpradiant.net/tutorial/app-development-company-pro/"
+msgstr ""
+
+#: get-started/getstart.php:57
+msgid "Buy Now"
+msgstr ""
+
+#: get-started/getstart.php:60
+msgid "Demo"
+msgstr ""
+
+#: get-started/getstart.php:63
+msgid "Documentation"
+msgstr ""
+
+#: get-started/getstart.php:84
+msgid "Secondary menu"
+msgstr ""
+
+#: get-started/getstart.php:85
+msgid "About"
+msgstr ""
+
+#: get-started/getstart.php:87
+msgid "Compare free Vs Pro"
+msgstr ""
+
+#: get-started/getstart.php:89
+msgid "Changelog"
+msgstr ""
+
+#: get-started/getstart.php:110
+msgid "Free Theme Directives"
+msgstr ""
+
+#: get-started/getstart.php:113
+msgid "This article will walk you through the different phases of setting up and handling your WordPress website."
+msgstr ""
+
+#: get-started/getstart.php:117
+msgid "Free Documentation"
+msgstr ""
+
+#: get-started/getstart.php:124
+msgid "Full Site Editing"
+msgstr ""
+
+#: get-started/getstart.php:127
+msgid "We have used Full Site Editing which will help you preview your changes live and fast."
+msgstr ""
+
+#: get-started/getstart.php:131
+msgid "Use Site Editor"
+msgstr ""
+
+#: get-started/getstart.php:138
+msgid "Leave us a review"
+msgstr ""
+
+#: get-started/getstart.php:140
+msgid "We would love to hear your feedback."
+msgstr ""
+
+#: get-started/getstart.php:144
+msgid "Review"
+msgstr ""
+
+#: get-started/getstart.php:152
+msgid "Help &amp; Support"
+msgstr ""
+
+#: get-started/getstart.php:155
+msgid "If you have any question/feedback regarding theme, please post in our official support forum."
+msgstr ""
+
+#: get-started/getstart.php:159
+msgid "Get Support"
+msgstr ""
+
+#: get-started/getstart.php:177
+msgid "Want to know whats been happening with the latest changes?"
+msgstr ""
+
+#: get-started/getstart.php:238
+msgid "Compare Free Vs Pro"
+msgstr ""
+
+#: get-started/getstart.php:242
+msgid "Theme Features"
+msgstr ""
+
+#: get-started/getstart.php:243
+msgid "Free Theme"
+msgstr ""
+
+#: get-started/getstart.php:244
+msgid "Pro Theme"
+msgstr ""
+
+#: get-started/getstart.php:249
+msgid "Responsive Design"
+msgstr ""
+
+#: get-started/getstart.php:254
+msgid "Painless Setup"
+msgstr ""
+
+#: get-started/getstart.php:259
+msgid "Color Options"
+msgstr ""
+
+#: get-started/getstart.php:264
+msgid "Premium site demo"
+msgstr ""
+
+#: get-started/getstart.php:269
+msgid "Multiple Block Layout"
+msgstr ""
+
+#: get-started/getstart.php:274
+msgid "Premium Patterns"
+msgstr ""
+
+#: get-started/getstart.php:279
+msgid "Multiple Fonts"
+msgstr ""
+
+#: get-started/getstart.php:284
+msgid "Slider Block"
+msgstr ""
+
+#: get-started/getstart.php:289
+msgid "Post Listing Block"
+msgstr ""
+
+#: get-started/getstart.php:294
+msgid "WooCommerce Filter Block"
+msgstr ""
+
+#: get-started/getstart.php:299
+msgid "Gallery Block"
+msgstr ""
+
+#: get-started/getstart.php:304
+msgid "Post Carousel Block"
+msgstr ""
+
+#: get-started/getstart.php:311
+msgid "Buy It Now"
+msgstr ""
+
+#: get-started/notice.php:5
+msgid "https://www.wpradiant.net/products/wordpress-theme-bundle"
+msgstr ""
+
+#: get-started/notice.php:47
+msgid "Welcome to App Development Company"
+msgstr ""
+
+#: get-started/notice.php:48
+msgid "Enhance Your Website Development with Radiant Blocks!!"
+msgstr ""
+
+#: get-started/notice.php:51
+msgid "Effortlessly craft websites for any niche with Radiant Blocks! Experience seamless functionality and stunning responsiveness as you enhance your digital presence with Block WordPress Themes. Start building your ideal website today!"
+msgstr ""
+
+#: get-started/notice.php:53
+msgid "Getting started"
+msgstr ""
+
+#: get-started/notice.php:55
+msgid "Buy Now "
+msgstr ""
+
+#: get-started/notice.php:57
+msgid "Get Bundle"
+msgstr ""
+
+#: inc/block-pattern.php:61
+msgid "App Development Company Patterns"
+msgstr ""
+
+#: inc/block-style.php:28
+msgid "Borders"
+msgstr ""
+
+#: inc/customizer.php:17
+msgid "App Development Pro"
+msgstr ""
+
+#: inc/customizer.php:18
+msgid "Upgrade Pro"
+msgstr ""
+
+#: patterns/404-page.php
+msgctxt "Pattern title"
+msgid "404 Page"
+msgstr ""
+
+#: patterns/404-page.php:11
+msgid "404 Page"
+msgstr ""
+
+#: patterns/404-page.php:15
+msgid "404"
+msgstr ""
+
+#: patterns/404-page.php:19
+msgid "Unfortunately we can’t find that page."
+msgstr ""
+
+#: patterns/404-page.php:23
+msgid "The page you are looking for doesnt exist or has been moved. Try another url or go to the site homepage."
+msgstr ""
+
+#: patterns/banner.php
+msgctxt "Pattern title"
+msgid "Banner"
+msgstr ""
+
+#: patterns/banner.php:11
+msgid "Banner"
+msgstr ""
+
+#: patterns/banner.php:18
+msgid "BOOST YOUR BUSINESS"
+msgstr ""
+
+#: patterns/banner.php:22
+msgid "We Can Help Turn Your"
+msgstr ""
+
+#: patterns/banner.php:22
+msgid "Ideas Into Reality!"
+msgstr ""
+
+#: patterns/banner.php:26
+msgid "Lorem Ipsum has been the industrys standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book."
+msgstr ""
+
+#: patterns/banner.php:33
+msgid "READ MORE"
+msgstr ""
+
+#: patterns/banner.php:54
+msgid "Call Us Here"
+msgstr ""
+
+#: patterns/footer-default.php
+msgctxt "Pattern title"
+msgid "Footer Default"
+msgstr ""
+
+#: patterns/footer-default.php:11
+msgid "Footer Default"
+msgstr ""
+
+#: patterns/footer-default.php:35
+msgid "Helps"
+msgstr ""
+
+#: patterns/footer-default.php:51
+msgid "Quick Links"
+msgstr ""
+
+#: patterns/footer-default.php:67
+msgid "Contact Us"
+msgstr ""
+
+#: patterns/footer-default.php:71
+msgid "support@example.com"
+msgstr ""
+
+#: patterns/footer-default.php:79
+msgid "123, Red Hills, Chicago,IL, USA"
+msgstr ""
+
+#: patterns/footer-default.php:85
+msgid "APP DEVELOPMENT"
+msgstr ""
+
+#: patterns/footer-default.php:85
+msgid "COMPANY"
+msgstr ""
+
+#: patterns/footer-default.php:89
+msgid "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor ut labore et dolore magna aliqua."
+msgstr ""
+
+#: patterns/footer-default.php:97
+msgid "Development Company WordPress Theme "
+msgstr ""
+
+#: patterns/footer-default.php:97
+msgid " By "
+msgstr ""
+
+#: patterns/footer-default.php:97
+msgid "Proudly powered by"
+msgstr ""
+
+#: patterns/footer-default.php:97
+msgid "WordPress"
+msgstr ""
+
+#: patterns/primary-sidebar.php
+msgctxt "Pattern title"
+msgid "Primary Sidebar"
+msgstr ""
+
+#: patterns/primary-sidebar.php:11
+msgid "Sidebar Section"
+msgstr ""
+
+#: patterns/primary-sidebar.php:17
+#: patterns/search.php:11
+msgid "Search"
+msgstr ""
+
+#: patterns/primary-sidebar.php:29
+msgid "Latest Posts"
+msgstr ""
+
+#: patterns/primary-sidebar.php:55
+msgid "Archieve"
+msgstr ""
+
+#: patterns/primary-sidebar.php:67
+msgid "Category"
+msgstr ""
+
+#: patterns/primary-sidebar.php:79
+msgid "Social"
+msgstr ""
+
+#: patterns/record-section.php
+msgctxt "Pattern title"
+msgid "Record Section"
+msgstr ""
+
+#: patterns/record-section.php:11
+msgid "Record Section"
+msgstr ""
+
+#: patterns/record-section.php:19
+msgid "OUR RECORDS"
+msgstr ""
+
+#: patterns/record-section.php:23
+msgid "Our Software Help You Grow"
+msgstr ""
+
+#: patterns/record-section.php:23
+msgid "Your Business"
+msgstr ""
+
+#: patterns/record-section.php:33
+msgid "NEW FEATURES"
+msgstr ""
+
+#: patterns/record-section.php:43
+msgid "APP DOWNLOADS"
+msgstr ""
+
+#: patterns/record-section.php:53
+msgid "ACTIVE USERS"
+msgstr ""
+
+#: patterns/record-section.php:63
+msgid "POSITIVE RATES"
+msgstr ""
+
+#: patterns/search-header.php
+msgctxt "Pattern title"
+msgid "Search Header"
+msgstr ""
+
+#: patterns/search-header.php:11
+msgid "Search Header"
+msgstr ""
+
+#: patterns/search.php
+msgctxt "Pattern title"
+msgid "Search"
+msgstr ""
+
+#: patterns/services-section.php
+msgctxt "Pattern title"
+msgid "Services Section"
+msgstr ""
+
+#: patterns/services-section.php:11
+msgid "Services Section"
+msgstr ""
+
+#: patterns/services-section.php:19
+msgid "OUR SERVICES"
+msgstr ""
+
+#: patterns/services-section.php:23
+msgid "Awesome Services To Grow Your"
+msgstr ""
+
+#: patterns/services-section.php:23
+msgid "Business Value"
+msgstr ""
+
+#: patterns/services-section.php:38
+#: patterns/services-section.php:54
+#: patterns/services-section.php:70
+#: patterns/services-section.php:92
+#: patterns/services-section.php:108
+#: patterns/services-section.php:124
+msgid "BUSINESS SOLUTIONS"
+msgstr ""
+
+#: patterns/services-section.php:43
+#: patterns/services-section.php:129
+msgid "IT Management and Solution"
+msgstr ""
+
+#: patterns/services-section.php:59
+#: patterns/services-section.php:97
+msgid "Productivity Software"
+msgstr ""
+
+#: patterns/services-section.php:75
+#: patterns/services-section.php:113
+msgid "Advanced Cyber Security"
+msgstr ""
+
+#: styles/blue.json
+msgctxt "Style variation name"
+msgid "Lite Green"
+msgstr ""
+
+#: styles/blue.json
+#: styles/green.json
+#: styles/orange.json
+#: styles/pink.json
+#: styles/red.json
+#: theme.json
+msgctxt "Color name"
+msgid "Accent"
+msgstr ""
+
+#: styles/blue.json
+#: styles/green.json
+#: styles/orange.json
+#: styles/pink.json
+#: styles/red.json
+#: theme.json
+msgctxt "Color name"
+msgid "Secaccent"
+msgstr ""
+
+#: styles/blue.json
+#: styles/green.json
+#: styles/orange.json
+#: styles/pink.json
+#: styles/red.json
+#: theme.json
+msgctxt "Color name"
+msgid "Background"
+msgstr ""
+
+#: styles/blue.json
+#: styles/green.json
+#: styles/orange.json
+#: styles/pink.json
+#: styles/red.json
+#: theme.json
+msgctxt "Color name"
+msgid "Fourground"
+msgstr ""
+
+#: styles/blue.json
+#: styles/green.json
+#: styles/orange.json
+#: styles/pink.json
+#: styles/red.json
+#: theme.json
+msgctxt "Color name"
+msgid "Secbackground"
+msgstr ""
+
+#: styles/blue.json
+#: styles/green.json
+#: styles/orange.json
+#: styles/pink.json
+#: styles/red.json
+#: theme.json
+msgctxt "Color name"
+msgid "primary"
+msgstr ""
+
+#: styles/blue.json
+#: styles/green.json
+#: styles/orange.json
+#: styles/pink.json
+#: styles/red.json
+#: theme.json
+msgctxt "Color name"
+msgid "Secondary"
+msgstr ""
+
+#: styles/blue.json
+#: styles/green.json
+#: styles/orange.json
+#: styles/pink.json
+#: styles/red.json
+#: theme.json
+msgctxt "Color name"
+msgid "tertiary"
+msgstr ""
+
+#: styles/green.json
+msgctxt "Style variation name"
+msgid "Yellow"
+msgstr ""
+
+#: styles/orange.json
+msgctxt "Style variation name"
+msgid "Purple"
+msgstr ""
+
+#: styles/pink.json
+msgctxt "Style variation name"
+msgid "Red"
+msgstr ""
+
+#: styles/red.json
+msgctxt "Style variation name"
+msgid "Lite Pink"
+msgstr ""
+
+#: theme.json
+msgctxt "Template part name"
+msgid "Sidebar Products"
+msgstr ""
+
+#: theme.json
+msgctxt "Custom template name"
+msgid "Single Blog Page (Sidebar on Left)"
+msgstr ""
+
+#: theme.json
+msgctxt "Custom template name"
+msgid "Single Blog Page (Sidebar on Right)"
+msgstr ""
+
+#: theme.json
+msgctxt "Custom template name"
+msgid "Grid Layout(Archieve posts)"
+msgstr ""
+
+#: theme.json
+msgctxt "Custom template name"
+msgid "Single post (No Sidebar)"
+msgstr ""
+
+#: theme.json
+msgctxt "Custom template name"
+msgid "Single post (Sidebar on Left)"
+msgstr ""
+
+#: theme.json
+msgctxt "Custom template name"
+msgid "Page (Sidebar on Right)"
+msgstr ""
+
+#: theme.json
+msgctxt "Custom template name"
+msgid "Page (Sidebar on Left)"
+msgstr ""
+
+#: theme.json
+msgctxt "Duotone name"
+msgid "primary and background"
+msgstr ""
+
+#: theme.json
+msgctxt "Duotone name"
+msgid "primary and secondary"
+msgstr ""
+
+#: theme.json
+msgctxt "Duotone name"
+msgid "primary and tertiary"
+msgstr ""
+
+#: theme.json
+msgctxt "Duotone name"
+msgid "Primary and background"
+msgstr ""
+
+#: theme.json
+msgctxt "Duotone name"
+msgid "Primary and secondary"
+msgstr ""
+
+#: theme.json
+msgctxt "Duotone name"
+msgid "Primary and tertiary"
+msgstr ""
+
+#: theme.json
+msgctxt "Gradient name"
+msgid "Vertical secondary to tertiary"
+msgstr ""
+
+#: theme.json
+msgctxt "Gradient name"
+msgid "Vertical secondary to background"
+msgstr ""
+
+#: theme.json
+msgctxt "Gradient name"
+msgid "Vertical tertiary to background"
+msgstr ""
+
+#: theme.json
+msgctxt "Gradient name"
+msgid "Diagonal primary to primary"
+msgstr ""
+
+#: theme.json
+msgctxt "Gradient name"
+msgid "Diagonal secondary to background"
+msgstr ""
+
+#: theme.json
+msgctxt "Gradient name"
+msgid "Diagonal background to secondary"
+msgstr ""
+
+#: theme.json
+msgctxt "Gradient name"
+msgid "Diagonal tertiary to background"
+msgstr ""
+
+#: theme.json
+msgctxt "Gradient name"
+msgid "Diagonal background to tertiary"
+msgstr ""
+
+#: theme.json
+msgctxt "Font family name"
+msgid "Poppins"
+msgstr ""
+
+#: theme.json
+msgctxt "Font family name"
+msgid "Roboto"
+msgstr ""
+
+#: theme.json
+msgctxt "Font family name"
+msgid "Lato"
+msgstr ""
+
+#: theme.json
+msgctxt "Font family name"
+msgid "Jost"
+msgstr ""
+
+#: theme.json
+msgctxt "Font family name"
+msgid "Marhey"
+msgstr ""
+
+#: theme.json
+msgctxt "Font family name"
+msgid "Bricolage Grotesque"
+msgstr ""
+
+#: theme.json
+msgctxt "Font family name"
+msgid "Inter"
+msgstr ""
+
+#: theme.json
+msgctxt "Font size name"
+msgid "Tiny"
+msgstr ""
+
+#: theme.json
+msgctxt "Font size name"
+msgid "Extra Small"
+msgstr ""
+
+#: theme.json
+msgctxt "Font size name"
+msgid "Small"
+msgstr ""
+
+#: theme.json
+msgctxt "Font size name"
+msgid "Medium"
+msgstr ""
+
+#: theme.json
+msgctxt "Font size name"
+msgid "Upper Heading"
+msgstr ""
+
+#: theme.json
+msgctxt "Font size name"
+msgid "Normal"
+msgstr ""
+
+#: theme.json
+msgctxt "Font size name"
+msgid "Content Heading"
+msgstr ""
+
+#: theme.json
+msgctxt "Font size name"
+msgid "Large"
+msgstr ""
+
+#: theme.json
+msgctxt "Font size name"
+msgid "Extra large (Recent Post Title)"
+msgstr ""
+
+#: theme.json
+msgctxt "Font size name"
+msgid "Huge (Display)"
+msgstr ""
