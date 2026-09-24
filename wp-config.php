@@ -32,7 +32,7 @@ define( 'DB_USER', 'avnadmin' );
 define( 'DB_PASSWORD', 'AVNS_-Bf6IaqwcxNaiIvaPIv' );
 
 /** Database hostname */
-define( 'DB_HOST', 'mysql-262f8bb1-tinfoxconsulting-3ebb.a.aivencloud.com' );
+define( 'DB_HOST', 'mysql-262f8bb1-tinfoxconsulting-3ebb.a.aivencloud.com:14816' );
 
 /** Database charset to use in creating database tables. */
 define( 'DB_CHARSET', 'utf8mb4' );
