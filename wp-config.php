@@ -28,6 +28,7 @@ define( 'DB_NAME', 'defaultdb' );
 define( 'DB_USER', 'avnadmin' );
 
 /** Database password */
+
 // define( 'DB_PASSWORD', '[P7Artv(8,lU' );
 define( 'DB_PASSWORD', 'AVNS_-Bf6IaqwcxNaiIvaPIv' );
 
@@ -93,7 +94,9 @@ define( 'WP_DEBUG', false );
 /* Add any custom values between this line and the "stop editing" line. */
 
 
-
+if (isset($_SERVER['HTTP_X_FORWARDED_PROTO']) && $_SERVER['HTTP_X_FORWARDED_PROTO'] === 'https') {
+    $_SERVER['HTTPS'] = 'on';
+}
 /* That's all, stop editing! Happy publishing. */
 
 /** Absolute path to the WordPress directory. */
