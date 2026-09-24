@@ -21,18 +21,18 @@
 // ** Database settings - You can get this info from your web host ** //
 /** The name of the database for WordPress */
 // define( 'DB_NAME', 'tinfox_consulting' );
-define( 'DB_NAME', 'tinfox_wordpress_site' );
+define( 'DB_NAME', 'defaultdb' );
 
 /** Database username */
 // define( 'DB_USER', 'i10252428_tqmf1' );
-define( 'DB_USER', 'tinfox_wordpress_site_user' );
+define( 'DB_USER', 'avnadmin' );
 
 /** Database password */
 // define( 'DB_PASSWORD', '[P7Artv(8,lU' );
-define( 'DB_PASSWORD', 'wtztr0qCz8f14370oecCPsNKdLcUp5w1' );
+define( 'DB_PASSWORD', 'AVNS_-Bf6IaqwcxNaiIvaPIv' );
 
 /** Database hostname */
-define( 'DB_HOST', 'localhost' );
+define( 'DB_HOST', 'mysql-262f8bb1-tinfoxconsulting-3ebb.a.aivencloud.com' );
 
 /** Database charset to use in creating database tables. */
 define( 'DB_CHARSET', 'utf8mb4' );
