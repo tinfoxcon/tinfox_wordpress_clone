@@ -21,18 +21,19 @@
 // ** Database settings - You can get this info from your web host ** //
 /** The name of the database for WordPress */
 // define( 'DB_NAME', 'tinfox_consulting' );
-define( 'DB_NAME', 'tinfox_wordpress_site' );
+define( 'DB_NAME', 'defaultdb' );
 
 /** Database username */
 // define( 'DB_USER', 'i10252428_tqmf1' );
-define( 'DB_USER', 'tinfox_wordpress_site_user' );
+define( 'DB_USER', 'avnadmin' );
 
 /** Database password */
+
 // define( 'DB_PASSWORD', '[P7Artv(8,lU' );
-define( 'DB_PASSWORD', 'wtztr0qCz8f14370oecCPsNKdLcUp5w1' );
+define( 'DB_PASSWORD', 'AVNS_-Bf6IaqwcxNaiIvaPIv' );
 
 /** Database hostname */
-define( 'DB_HOST', 'localhost' );
+define( 'DB_HOST', 'mysql-262f8bb1-tinfoxconsulting-3ebb.a.aivencloud.com:14816' );
 
 /** Database charset to use in creating database tables. */
 define( 'DB_CHARSET', 'utf8mb4' );
@@ -93,7 +94,10 @@ define( 'WP_DEBUG', false );
 /* Add any custom values between this line and the "stop editing" line. */
 
 
-
+if (isset($_SERVER['HTTP_X_FORWARDED_PROTO']) && $_SERVER['HTTP_X_FORWARDED_PROTO'] === 'https') {
+    $_SERVER['HTTPS'] = 'on';
+}
+define( 'FS_METHOD', 'direct' );
 /* That's all, stop editing! Happy publishing. */
 
 /** Absolute path to the WordPress directory. */
