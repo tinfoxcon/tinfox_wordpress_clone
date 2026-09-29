@@ -4,8 +4,6 @@
 	<meta name="viewport" content="width=device-width" />
 	<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
 	<meta name="robots" content="noindex,nofollow" />
-
-	<link rel="stylesheet" href="wp-admin/css/install.css?ver=20100228" type="text/css" />
 </head>
 <body>
 <h1 id="logo">
