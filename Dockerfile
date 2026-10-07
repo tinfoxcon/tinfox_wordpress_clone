@@ -2,6 +2,12 @@ FROM wordpress:php8.3-apache
 
 RUN a2enmod rewrite
 
+# Install Composer
+COPY --from=composer/composer:2-bin /composer /usr/bin/composer
+
+# Verify Composer installation
+RUN composer --version
+
 COPY --chown=www-data:www-data . /var/www/html/
 
 # Install required tools and FluentSMTP
