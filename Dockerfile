@@ -10,6 +10,11 @@ RUN composer --version
 
 COPY --chown=www-data:www-data . /var/www/html/
 
+WORKDIR /var/www/html
+
+# Install PHP dependencies
+RUN composer install --no-dev --optimize-autoloader
+
 # Install required tools and FluentSMTP
 RUN apt-get update \
     && apt-get install -y --no-install-recommends unzip \
