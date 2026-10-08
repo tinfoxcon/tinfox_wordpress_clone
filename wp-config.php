@@ -19,7 +19,6 @@ error_log('DB_HOST=' . ($_ENV['DB_HOST'] ?? 'NOT_SET'));
 define( 'WP_HOME', 'https://dev.tinfoxconsulting.com' );
 define( 'WP_SITEURL', 'https://dev.tinfoxconsulting.com' );
 
-
 /** Database */
 define( 'DB_NAME', $_ENV['DB_NAME'] );
 define( 'DB_USER', $_ENV['DB_USER'] );
