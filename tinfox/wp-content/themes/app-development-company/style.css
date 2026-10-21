@@ -1586,9 +1586,9 @@ a.wc-block-components-checkout-return-to-cart-button:hover{
 .woocommerce-account .woocommerce-MyAccount-navigation ul{
   margin: 0 !important;
 }
-.alignwide.wp-block-template-part{
+/* .alignwide.wp-block-template-part{
   max-width: ;
-}
+} */
 .woocommerce{
   margin: 0 auto;
   max-width: 100% !important;
