@@ -1586,9 +1586,9 @@ a.wc-block-components-checkout-return-to-cart-button:hover{
 .woocommerce-account .woocommerce-MyAccount-navigation ul{
   margin: 0 !important;
 }
-.alignwide.wp-block-template-part{
+/* .alignwide.wp-block-template-part{
   max-width: ;
-}
+} */
 .woocommerce{
   margin: 0 auto;
   max-width: 100% !important;
@@ -1760,4 +1760,114 @@ nav.woocommerce-MyAccount-navigation ul li a {
   border-radius: 50% !important;
   padding: 0!important;
   margin: 0 !important;
+}
+/* Fix Contact Us overlapping App Development column */
+
+.wp-block-columns.alignwide.wow.fadeInUp > .wp-block-column.footer-box:nth-child(3) {
+    flex: 1.5 1 0 !important;
+    min-width: 0 !important;
+    margin-left: 0 !important;
+}
+
+.wp-block-columns.alignwide.wow.fadeInUp > .wp-block-column.footer-box:nth-child(4) {
+    flex: 1.2 1 0 !important;
+    min-width: 0 !important;
+    margin-left: 0 !important;
+}
+
+/* Email line */
+.wp-block-columns.alignwide.wow.fadeInUp
+.footer-box p:has(.dashicons-email-alt) {
+    display: flex !important;
+    align-items: flex-start !important;
+    white-space: normal !important;
+    overflow-wrap: anywhere !important;
+    max-width: 100%;
+}
+
+.wp-block-columns.alignwide.wow.fadeInUp
+.footer-box p:has(.dashicons-email-alt) a {
+    min-width: 0;
+    overflow-wrap: anywhere;
+}
+
+/* Phone line */
+.wp-block-columns.alignwide.wow.fadeInUp
+.footer-box p:has(.dashicons-phone) {
+    display: flex !important;
+    flex-wrap: wrap !important;
+    align-items: flex-start !important;
+    white-space: normal !important;
+    overflow-wrap: anywhere !important;
+    max-width: 100%;
+}
+
+.wp-block-columns.alignwide.wow.fadeInUp
+.footer-box p:has(.dashicons-phone) a {
+    overflow-wrap: anywhere;
+}
+
+/* Mobile: stack columns vertically */
+@media (max-width: 600px) {
+    .wp-block-columns.alignwide.wow.fadeInUp > .wp-block-column.footer-box {
+        flex: 1 1 100% !important;
+        width: 100% !important;
+        margin-left: 0 !important;
+    }
+}
+
+
+/* Fix About Us Contact Us overlapping App Development column */
+
+.wp-block-columns.alignwide.wow.fadeInUp > .wp-block-column.footer-box:nth-child(3) {
+    flex: 1.5 1 0 !important;
+    min-width: 0 !important;
+    margin-left: 0 !important;
+}
+
+.wp-block-columns.alignwide.wow.fadeInUp > .wp-block-column.footer-box:nth-child(4) {
+    flex: 1.2 1 0 !important;
+    min-width: 0 !important;
+    margin-left: 0 !important;
+}
+
+/* Email line */
+.wp-block-columns.alignwide.wow.fadeInUp
+.footer-box p:has(.dashicons-email-alt) {
+    display: flex !important;
+    align-items: flex-start !important;
+    white-space: normal !important;
+    overflow-wrap: anywhere !important;
+    max-width: 100%;
+}
+
+.wp-block-columns.alignwide.wow.fadeInUp
+.footer-box p:has(.dashicons-email-alt) a {
+    min-width: 0;
+    overflow-wrap: anywhere;
+}
+
+/* Phone line */
+.wp-block-columns.alignwide.wow.fadeInUp
+.footer-box p:has(.dashicons-phone) {
+    display: flex !important;
+    flex-wrap: wrap !important;
+    align-items: flex-start !important;
+    white-space: normal !important;
+    overflow-wrap: anywhere !important;
+    max-width: 100%;
+}
+
+.wp-block-columns.alignwide.wow.fadeInUp
+.footer-box p:has(.dashicons-phone) a {
+    overflow-wrap: anywhere;
+}
+
+/* Mobile: stack columns vertically */
+@media (max-width: 600px) {
+    .wp-block-columns.alignwide.wow.fadeInUp > .wp-block-column.footer-box {
+        flex: 1 1 100% !important;
+        width: 100% !important;
+        margin-left: 0 !important;
+    }
 }
